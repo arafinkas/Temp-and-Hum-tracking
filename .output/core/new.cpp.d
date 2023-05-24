@@ -1,0 +1,4 @@
+e:\Nextcloud\Github\Temp-and-Hum-tracking\.output\core\new.cpp.o: \
+ C:\Users\Velasco\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino\new.cpp \
+ C:\Users\Velasco\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino\new.h \
+ C:\Users\Velasco\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.5\cores\arduino\new

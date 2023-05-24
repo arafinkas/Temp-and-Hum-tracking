@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "dht11_adafruit\\dht11_adafruit.ino",
+    "port": "COM3",
+    "output": ".output"
+}
