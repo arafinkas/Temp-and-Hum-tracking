@@ -34,9 +34,9 @@ basic arduino kits) to monitor it out of the computer.
 
 The project is divided in 3 parts:
 
--Arduino code
--Python script
--Data management
+- Arduino code
+- Python script
+- Data management
 
 ### Arduino code
 
